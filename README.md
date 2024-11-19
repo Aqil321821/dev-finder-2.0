@@ -1,9 +1,9 @@
 # some images of my projects:
 
-![Screenshot 1](screenshots/1.png){:height="200px" width="300px"}
-![Screenshot 1](screenshots/2.png){:height="200px" width="300px"}
-![Screenshot 1](screenshots/3.png){:height="200px" width="300px"}
-![Screenshot 1](screenshots/4.png){:height="200px" width="300px"}
+![Screenshot 1](screenshots/1.png)
+![Screenshot 1](screenshots/2.png)
+![Screenshot 1](screenshots/3.png)
+![Screenshot 1](screenshots/4.png)
 
 # Getting Started with Create React App
 
