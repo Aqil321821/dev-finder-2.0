@@ -20,7 +20,7 @@ function User() {
     };
 
     getUserData();
-  }, []);
+  }, [dispatch, params.login]);
 
   const { name, type, avatar_url, location, bio, blog, twitter_username, login, html_url, followers, following, public_repos, public_gists, hireable } = user;
 
